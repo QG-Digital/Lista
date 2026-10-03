@@ -1,4 +1,4 @@
-    /* =========================================
+/* =========================================
        RESET E FUNDO (MINECRAFT STONE)
        ========================================= */
     * {
@@ -89,7 +89,12 @@
     /* Cores Específicas: Solário */
     .solario:hover { border-color: #4e73df; }
     .solario .app-logo { background: #4e73df; }
-    .solario .app-name span { color: #4e73df; font-weight: 600;}
+    .solario .app-name span { color: #4e73df; font-weight: 600; }
+
+    /* Cores Específicas: DeepSeek */
+    .deepseek:hover { border-color: #0066ff; }
+    .deepseek .app-logo { background: #0066ff; }
+    .deepseek .app-name span { color: #0066ff; font-weight: 600; }
 
 
     /* =========================================
